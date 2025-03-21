@@ -7,3 +7,7 @@ df
 
 str(df)
 summary(df)
+
+# Indexing and Selection
+# Select first column or days column
+df[,1]
